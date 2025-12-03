@@ -1,5 +1,6 @@
 import profileImage from '../assets/img/profile.jpeg';
 
+// A comment to trigger a new build
 const Hero = () => {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center pt-24 p-4">
